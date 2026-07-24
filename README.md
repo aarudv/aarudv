@@ -1,78 +1,35 @@
-# Aarush Sharma
+<div align="center">
 
-Computer Science with Artificial Intelligence undergraduate at the University of Nottingham Malaysia.
+# Hi, I'm Aarush Sharma
 
-I am interested in machine learning, software engineering, full-stack development, databases and computer networking. My projects involve building practical applications using Python, C, PHP, JavaScript, SQL and related technologies.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=750&lines=Computer+Science+with+Artificial+Intelligence;Building+with+Python%2C+C%2C+PHP%2C+JavaScript+and+SQL;Exploring+Machine+Learning%2C+Full-Stack+Development+and+Networking)](https://git.io/typing-svg)
 
-## Featured Projects
+Computer Science with Artificial Intelligence undergraduate at the **University of Nottingham Malaysia**.
 
-### Internship Result Management System
+I build practical software across **machine learning, full-stack development, databases, text processing and computer networking**.
 
-A full-stack web application developed to support the management and assessment of university internships.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aarush%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarush-sharma-840a8b2b5)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmaaarush79@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-aarudv-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aarudv)
 
-- Role-based interfaces for administrators and assessors
-- Student, assessor and internship record management
-- Automated assessment calculations
-- Results, statistics and chart-based views
-- Authentication, validation and error handling
-- Built with PHP, MySQL, JavaScript, HTML and CSS
-
-[View repository](https://github.com/aarudv/Internship-Result-Management-System)
+</div>
 
 ---
 
-### C Socket Programming Client-Server Suite
+## About Me
 
-A progressive collection of TCP client-server applications developed in C using Winsock.
+```yaml
+name: Aarush Sharma
+education: Bachelor of Computer Science with Artificial Intelligence (Hons)
+university: University of Nottingham Malaysia
 
-- Persistent client-server communication
-- Input validation and command processing
-- Client connection and message logging
-- Date and timezone commands
-- Concurrent two-client chat
-- Socket cleanup and structured error handling
+interests:
+  - Machine Learning and Artificial Intelligence
+  - Software Engineering and Full-Stack Development
+  - Computer Networking and Systems
+  - Databases, Algorithms and Problem Solving
 
-[View repository](https://github.com/aarudv/C-Socket-Programming-Client-Server-Suite)
-
----
-
-### Cyberbullying and Toxic Text Analyzer
-
-A rule-based text-analysis application developed in C using standard libraries.
-
-- Text tokenisation and normalisation
-- Stopword filtering
-- Toxic-word detection
-- Word-frequency and toxicity analysis
-- Sorting and report generation
-- Menu-driven command-line interface
-
-[View repository](https://github.com/aarudv/Cyberbullying-and-Toxic-Text-Analyzer)
-
-## Technical Skills
-
-**Programming Languages**
-
-Python, C, Java, PHP, JavaScript, SQL, HTML and CSS
-
-**Machine Learning and Data**
-
-Machine Learning, Deep Learning, NumPy, pandas, scikit-learn, TensorFlow, Matplotlib and Jupyter Notebook
-
-**Software Development**
-
-MySQL, Git, GitHub, Full-Stack Development, Database Design, Socket Programming, TCP/IP, Data Structures and Algorithms
-
-## Certification
-
-### Machine Learning Specialization
-
-Completed the three-course Machine Learning Specialization offered by DeepLearning.AI and Stanford Online through Coursera.
-
-Topics covered include supervised learning, neural networks, decision trees, clustering, anomaly detection, recommender systems and reinforcement learning.
-
-[View credential](https://coursera.org/verify/specialization/W73D4Q39PUK0)
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/aarush-sharma-840a8b2b5) · [Email](mailto:sharmaaarush79@gmail.com)
+approach:
+  - Build practical projects
+  - Understand systems from low-level code to user-facing applications
+  - Write clear, maintainable and well-documented software
